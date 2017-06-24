@@ -1,0 +1,4 @@
+Small addon for importing svg as blender masks.
+
+Depencies:
+- svg.path v2.2 python module
